@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🌟 **Name**: [Joy Sarkar]
-- 🎓 **Education**: [B.Sc] in [Computer Science & Engineering] from [BRAC University]
-- 💼 **Current Role**: [Content Creator] at [Sysonex]
-- 🌍 **Location**: [Dhaka, Bangladesh]
+- 🌟 **Name**: Joy Sarkar
+- 🎓 **Education**: B.Sc in Computer Science & Engineering from BRAC University
+- 💼 **Current Role**: Content Creator at Sysonex
+- 🌍 **Location**: Dhaka, Bangladesh
 <!-- 🌐 **Website**: [Your Personal Website] -->
 
 ## 🚀 Skills
