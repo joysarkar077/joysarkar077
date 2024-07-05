@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Joy] 👋
 
 <!--![Your Banner Image](URL_TO_YOUR_BANNER_IMAGE) -->
 
