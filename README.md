@@ -1,6 +1,6 @@
 # Hi there, I'm Joy 👋
 
-![Joy's GitHub Banner](https://drive.google.com/file/d/1IOhOYA798CXdQCS1P0P7bdRNQSmF7Bes/view?usp=sharing)
+![Joy's GitHub Banner](https://github.com/joysarkar077/joysarkar077/blob/90ad020943c071407c3d09249b1794302a05ace0/assets/Joy_Github_Banner.jpg)
 
 ## About Me
 
