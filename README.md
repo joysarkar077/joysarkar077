@@ -35,8 +35,8 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joysarkar077&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysarkar077&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joysarkar077&show_icons=true&theme=default)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysarkar077&layout=compact&theme=default)
 
 <!--## 📚 Projects
 
