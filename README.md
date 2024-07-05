@@ -1,6 +1,6 @@
 # Hi there, I'm Joy 👋
 
-<!--![Your Banner Image](URL_TO_YOUR_BANNER_IMAGE) -->
+![Joy's GitHub Banner](https://drive.google.com/file/d/1IOhOYA798CXdQCS1P0P7bdRNQSmF7Bes/view?usp=sharing)
 
 ## About Me
 
