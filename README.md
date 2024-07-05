@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-![Your Banner Image](URL_TO_YOUR_BANNER_IMAGE)
+<!--![Your Banner Image](URL_TO_YOUR_BANNER_IMAGE) -->
 
 ## About Me
 
