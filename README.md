@@ -47,7 +47,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/joysarkar077)
 <!-- [Twitter](https://twitter.com/YOUR_TWITTER_HANDLE) -->
-- [Email](mailto:joysarkar+github@gmail.com)
+- [Email](mailto:joysarkar077+github@gmail.com)
 
 ## 🎨 Hobbies
 
