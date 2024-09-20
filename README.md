@@ -15,17 +15,20 @@
 - **Programming Languages**: 
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   <!-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
-  <!-- - **Frameworks and Libraries**: 
+ - **Frameworks and Libraries**: 
+  - ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  <!-- - **Databases**: 
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  <!-- - **Tools and Platforms**: 
+   <!-- - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) -->
+- **Databases**: 
+  - ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+  <!-- - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
+ - **Tools and Platforms**: 
   - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <!--  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
 <!--## 🏆 Achievements
@@ -38,9 +41,8 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joysarkar077&show_icons=true&theme=default)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysarkar077&layout=compact&theme=default)
 
-<!--## 📚 Projects
-
-<!-- **[Project 1](URL_TO_PROJECT_1)**: Brief description of what this project is about and what technologies were used.
+## 📚 Projects
+**[SplitGO-Ride Companion Finder](https://github.com/joysarkar077/cse370_project)**: This is a project for BRAC University’s CSE370 course. The project aims to help users find a ride companion who shares the same route and enables cost-sharing for the journey.
 <!-- **[Project 2](URL_TO_PROJECT_2)**: Brief description of what this project is about and what technologies were used. -->
 
 ## 💬 Connect with Me
