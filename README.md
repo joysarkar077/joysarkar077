@@ -6,7 +6,7 @@
 
 - 🌟 **Name**: Joy Sarkar
 - 🎓 **Education**: B.Sc in Computer Science & Engineering from BRAC University
-- 💼 **Current Role**: Content Creator at Sysonex
+- ![💼 **Current Role**: Content Creator at Sysonex]
 - 🌍 **Location**: Dhaka, Bangladesh
 <!-- 🌐 **Website**: [Your Personal Website] -->
 
@@ -25,7 +25,7 @@
 - **Databases**: 
   - ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
   <!-- - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  - **Tools and Platforms**: 
   - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   <!--  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
