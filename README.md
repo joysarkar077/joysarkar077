@@ -37,14 +37,17 @@
 
 ## 📈 GitHub Stats
 
+<!-- View Counter
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=joysarkar077&style=flat-square&color=blue" alt="Profile views" />
 </div>
 <br>
+-->
 
+<!-- GitHub Trophies (Currently disabled because the third-party service is down)
 [![trophy](https://github-profile-trophy.vercel.app/?username=joysarkar077&theme=discord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joysarkar077&show_icons=true&theme=default" alt="Your GitHub Stats" />
