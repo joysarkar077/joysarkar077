@@ -37,8 +37,27 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joysarkar077&show_icons=true&theme=default)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysarkar077&layout=compact&theme=default)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joysarkar077&style=flat-square&color=blue" alt="Profile views" />
+</div>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joysarkar077&theme=discord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joysarkar077&show_icons=true&theme=default" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joysarkar077&layout=compact&theme=default" alt="Your Top Languages" />
+</div>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=joysarkar077&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
+[![Joy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joysarkar077&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📚 Projects
 
