@@ -4,50 +4,84 @@
 
 ## About Me
 
-- 🌟 **Name**: Joy Sarkar
-- 🎓 **Education**: B.Sc in Computer Science & Engineering from BRAC University
+- 🌟 **Name**: Jotee Sarkar Joy (Joy Sarkar)
+- 🎓 **Education**: B.Sc in Computer Science & Engineering from BRAC University (Graduated)
+- 💡 **Interests**: Software Engineering, Full-Stack Development, AI/Machine Learning, Graphic Design
+- 🔬 **Research**: Thesis on Interpretable Deep Learning for Cervical Cancer Detection
 - 🌍 **Location**: Dhaka, Bangladesh
 - 🌐 **Website**: [joysarkar.app](https://joysarkar.app)
 
 ## 🚀 Skills
 
-- **Programming Languages**: 
+- **Languages**: 
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
- 
-- **Frameworks and Libraries**: 
+  - ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Web Development**: 
   - ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
   - ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- **AI & Data Science**:
+  - ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+- **Mobile Development**:
+  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 - **Databases**: 
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Tools and Platforms**: 
+- **Tools & Design**: 
+  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  - ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+  - ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!--## 🏆 Achievements
-- **Award/Recognition 1**: Brief description
-- **Award/Recognition 2**: Brief description -->
+## 💼 Experience
+
+- **Content Designer** @ Sysonex & Mojaru
+- **Lead Graphic Designer** @ The Daily Star National Newspaper Olympiad Season 3
+- **Operations Intern** @ Ostad
+
+## 📚 Projects
+
+### Web & Full-Stack
+- **[Choto.cc](https://choto.cc/)**: Advanced URL Shortener & Link Management Platform featuring real-time global analytics and edge infrastructure. (Next.js, TypeScript, Tailwind CSS)
+- **[BRACU Launchpad](https://bracu-launchpad.vercel.app/)**: Unified student dashboard integrating class schedules, tracking, and resources. (React, Next.js)
+- **[CoachUp](https://coachupbd.vercel.app/)**: Collaborative, real-time platform for conducting and evaluating online MCQ tests. (Next.js, Node.js, WebSockets)
+- **[Sampurna Project](https://sampurnaa.vercel.app/)**: E-commerce marketplace empowering rural Bangladeshi artisans. (Next.js, MongoDB, NextAuth)
+- **[SplitGO](https://cse370-project.vercel.app/)**: Ride companion finder optimizing shared routes. (Next.js, Tailwind CSS)
+
+### AI & Research
+- **[Interpretable Deep Learning for Cervical Cancer Detection](https://cervical-thesis-portfolio.vercel.app)** (Thesis): Developed a clinically viable Attention-Based Multiple Instance Learning (AB-MIL) pipeline using PyTorch/ResNet50.
+- **[Disease Classification Pipeline](https://github.com/joysarkar077/Disease-Classification-A-Supervised-and-Unsupervised-Machine-Learning-Approach.git)**: Multi-class ML pipeline using supervised & unsupervised techniques to diagnose and detect data overlaps.
+
+### Security, Systems & Networking
+- **[Counsel](https://coounsel.vercel.app)**: Zero-trust, end-to-end encrypted legal case management platform built completely from scratch using AES-256, RSA, ECC, and PBKDF2.
+- **[Multithreaded Process Manager](https://github.com/joysarkar077/Multithreaded-Process-Manager-Simulator-Operating-System-Project-Spring-2026)**: OS-level process simulator using POSIX threads, Mutexes, and Condition Variables in C.
+- **[Federal Flight Agency Network](https://github.com/joysarkar077/FFAN)**: Mission-critical, highly redundant aerospace network using Cisco Packet Tracer, RIPv2, VLSM, DHCP, DNS.
+
+### Mobile & Hardware
+- **[Retail Shop Management POS](https://github.com/joysarkar077/Retail-Shop-Management-Flutter-App)**: Point of Sale & inventory system supporting barcode scanning, cart calculation, and PDF receipts. (Flutter, Dart)
+- **[DoseFlow](https://jsdoseflow.vercel.app/)**: Smart Medicine Adherence Box featuring dual microcontrollers, real-time alerts, and cloud logging. (Arduino, ESP32, IoT)
+
+## 🏆 Leadership & Extracurriculars
+
+- **Ambassador & Trainer** @ 10 Minute School
+- **Head of Design** @ Mind Splash Magazine
+- **College Ambassador** @ SILSWA
 
 ## 📈 GitHub Stats
-
-<!-- View Counter
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joysarkar077&style=flat-square&color=blue" alt="Profile views" />
-</div>
-<br>
--->
-
-<!-- GitHub Trophies (Currently disabled because the third-party service is down)
-[![trophy](https://github-profile-trophy.vercel.app/?username=joysarkar077&theme=discord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
--->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joysarkar077&show_icons=true&theme=default" alt="Your GitHub Stats" />
@@ -62,39 +96,14 @@
 
 [![Joy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joysarkar077&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📚 Projects
-
-- **[SplitGO-Ride Companion Finder](https://cse370-project.vercel.app/)**: This is a project for BRAC University’s CSE370 course. The project aims to help users find a ride companion who shares the same route and enables cost-sharing for the journey.
-- **[Sampurna Project](https://sampurnaa.vercel.app/)**: Empowering rural artisans through digital craft, sustainable livelihoods, and traditional artistry connecting them globally.
-- **[Choto.cc](https://choto.cc/)**: URL Shortener.
-- **[coachup](https://coachupbd.vercel.app/)**: The all-in-one platform for managing tests, tracking student progress, and streamlining your student operations with ease.
-<!-- **[Project 2](URL_TO_PROJECT_2)**: Brief description of what this project is about and what technologies were used. -->
-
 ## 💬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/joysarkar077)
-<!-- [Twitter](https://twitter.com/YOUR_TWITTER_HANDLE) -->
 - [Email](mailto:joysarkar077+github@gmail.com)
-
-## 🎨 Hobbies
-
-- **Graphic Design**
-
-<!--## 🌱 Currently Learning
-- **Technology/Skill 1**
-- **Technology/Skill 2**
-
-## 🤝 Open to Collaborate On
-- **Project/Area 1**
-- **Project/Area 2** 
-
-## 🔭 Future Goals
-- Goal 1
-- Goal 2 -->
 
 ## 💬 Quote
 
-> "This Too, Shall Pass! 💕"*
+> "This Too, Shall Pass! 💕"
 >
 > "I will try until I can not try anymore!"
 
