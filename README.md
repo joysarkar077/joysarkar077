@@ -9,7 +9,7 @@
 - 💡 **Interests**: Software Engineering, Full-Stack Development, AI/Machine Learning, Graphic Design
 - 🔬 **Research**: Thesis on Interpretable Deep Learning for Cervical Cancer Detection
 - 🌍 **Location**: Dhaka, Bangladesh
-- 🌐 **Website**: [joysarkar.app](https://joysarkar.app)
+- 🌐 **Website**: [joysarkar.tech](https://joysarkar.tech)
 
 ## 🚀 Skills
 
